@@ -2,7 +2,7 @@
 
 A user-friendly **Scientific Calculator** built with Python's Tkinter library. This GUI application supports a range of mathematical operations, from basic arithmetic to advanced scientific functions.
 
-![Calculator Screenshot](on.png)
+![Calculator Screenshot](CalculatorGUI.png)
 
 ## 🚀 Features
 
